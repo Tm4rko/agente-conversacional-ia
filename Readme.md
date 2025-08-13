@@ -21,4 +21,5 @@ Tener lo siguiente instalado en el sistema:
     * **macOS (con Homebrew):** `brew install ffmpeg`
     * **Windows (con Chocolatey):** `choco install ffmpeg`
 
+* La voz de referencia es de Morgan Freeman, version latino.
 
